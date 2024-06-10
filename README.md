@@ -1,7 +1,7 @@
 # recommendation_system
 An integrated approach to solving business problem.
 
-##Цель проекта: 
+## Цель проекта: 
 
 >Подготовить основу рекомендательной системы для онлайн-школы MasterMind  
 ---
